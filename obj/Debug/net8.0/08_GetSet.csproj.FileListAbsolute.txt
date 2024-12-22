@@ -1,0 +1,14 @@
+E:\CSharp\POO\08_GetSet\bin\Debug\net8.0\08_GetSet.exe
+E:\CSharp\POO\08_GetSet\bin\Debug\net8.0\08_GetSet.deps.json
+E:\CSharp\POO\08_GetSet\bin\Debug\net8.0\08_GetSet.runtimeconfig.json
+E:\CSharp\POO\08_GetSet\bin\Debug\net8.0\08_GetSet.dll
+E:\CSharp\POO\08_GetSet\bin\Debug\net8.0\08_GetSet.pdb
+E:\CSharp\POO\08_GetSet\obj\Debug\net8.0\08_GetSet.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp\POO\08_GetSet\obj\Debug\net8.0\08_GetSet.AssemblyInfoInputs.cache
+E:\CSharp\POO\08_GetSet\obj\Debug\net8.0\08_GetSet.AssemblyInfo.cs
+E:\CSharp\POO\08_GetSet\obj\Debug\net8.0\08_GetSet.csproj.CoreCompileInputs.cache
+E:\CSharp\POO\08_GetSet\obj\Debug\net8.0\08_GetSet.dll
+E:\CSharp\POO\08_GetSet\obj\Debug\net8.0\refint\08_GetSet.dll
+E:\CSharp\POO\08_GetSet\obj\Debug\net8.0\08_GetSet.pdb
+E:\CSharp\POO\08_GetSet\obj\Debug\net8.0\08_GetSet.genruntimeconfig.cache
+E:\CSharp\POO\08_GetSet\obj\Debug\net8.0\ref\08_GetSet.dll
